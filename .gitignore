@@ -1,0 +1,7 @@
+# Ignore these folders
+node_modules/
+
+*.7z
+*.zip
+*.rar
+*.iso
